@@ -81,6 +81,16 @@ public class AdvertisingSystem {
     }
 
 
-
+    public void addAdCnt(Integer adCnt) {
+        this.adCnt += adCnt;
+    }
+    public void minusAdCnt(Integer adCnt)
+    {
+        if( this.adCnt > adCnt ) {
+            this.adCnt -= adCnt;
+        }else {
+            this.adCnt=0;
+        }
+    }
 
 }
