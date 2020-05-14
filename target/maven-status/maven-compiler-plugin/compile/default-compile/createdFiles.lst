@@ -1,11 +1,12 @@
-youtube_RH\PolicyHandler.class
-youtube_RH\AdDeleted.class
 youtube_RH\AdRegistered.class
-youtube_RH\AdModified.class
 youtube_RH\AdvertisingSystem.class
 youtube_RH\Application.class
+youtube_RH\AbstractEvent$1.class
+youtube_RH\PolicyHandler.class
+youtube_RH\AdDeleted.class
+youtube_RH\AdModified.class
+youtube_RH\EditedVideo.class
 youtube_RH\AbstractEvent.class
 youtube_RH\config\kafka\KafkaProcessor.class
 youtube_RH\AdvertisingSystemController.class
-youtube_RH\AbstractEvent$1.class
 youtube_RH\AdvertisingSystemRepository.class
